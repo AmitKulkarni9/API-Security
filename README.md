@@ -1,6 +1,6 @@
 # API-Security
 
-Introduction
+# Introduction
 
 When an API is accessed by method say for e.g. Get/Post it will give some response containing response data, response code along-with response headers.
 
@@ -19,9 +19,9 @@ Response Headers
   X-XSS-Protection
 
 
-Solution
+# Solution
 This is a Python based API-Security framework containing ApiSecurityHeader.py script which will check the required Security response headers are present and contains the required value.
 The script will work for ANY API provided. It supports both get and post method.
 
-Reference
+# Reference
 https://github.com/OWASP/www-project-secure-headers
