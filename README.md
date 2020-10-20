@@ -7,8 +7,8 @@ When an API is accessed by method say for e.g. Get/Post it will give some respon
 The OWASP Secure Headers Project describes these HTTP response headers that applications can use to increase the security of the application. Once set, these HTTP response headers can restrict modern browsers from running into easily preventable vulnerabilities. The OWASP Secure Headers Project intends to raise awareness and use of these headers. Below are the Response Headers described by OWASP which increases the security of the application.
 
 # Response Headers
-  HTTP Strict Transport Security (HSTS)
-  X-Frame-Options
+  <p>HTTP Strict Transport Security (HSTS)</p>
+  <p>X-Frame-Options</p>
   X-Content-Type-Options
   Content-Security-Policy
   X-Permitted-Cross-Domain-Policies
