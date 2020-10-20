@@ -9,14 +9,14 @@ The OWASP Secure Headers Project describes these HTTP response headers that appl
 # Response Headers
   <p>HTTP Strict Transport Security (HSTS)</p>
   <p>X-Frame-Options</p>
-  X-Content-Type-Options
-  Content-Security-Policy
-  X-Permitted-Cross-Domain-Policies
-  Referrer-Policy
-  Feature-Policy
-  Public Key Pinning Extension for HTTP (HPKP)
-  Expect-CT
-  X-XSS-Protection
+  <p>X-Content-Type-Options</p>
+  <p>Content-Security-Policy</p>
+  <p>X-Permitted-Cross-Domain-Policies</p>
+  <p>Referrer-Policy</p>
+  <p>Feature-Policy</p>
+  <p>Public Key Pinning Extension for HTTP (HPKP)</p>
+  <p>Expect-CT</p>
+  <p>X-XSS-Protection</p>
 
 
 # Solution
